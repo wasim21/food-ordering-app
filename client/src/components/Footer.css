@@ -1,0 +1,16 @@
+.footer {
+    background-color: #343a40; /* Dark background */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .watermark {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    opacity: 0.2;
+    font-size: 2em;
+    color: white;
+  }
+  

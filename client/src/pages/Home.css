@@ -1,0 +1,14 @@
+body {
+    background-image: url('C:\Users\wshai\food-ordering-app\client\public\assets\images\bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .home-container h1,
+  .home-container p {
+    color: bisque;
+    text-shadow: 4px 4px 8px rgba(163, 163, 62, 0.823); /* Add text shadow for better readability */
+  }
+  

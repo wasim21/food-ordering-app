@@ -1,0 +1,50 @@
+/* Header.css */
+
+.header-navbar {
+    padding: 10px 20px;
+  }
+  
+  .app-name {
+    font-family: 'Lobster', cursive;
+    font-size: 1.8rem;
+    color: #ffc107;
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-links {
+    margin-left: auto;
+  }
+  
+  .navbar .nav-link {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    transition: color 0.3s;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #ffc107;
+  }
+
+  .satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.close-icon {
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.2rem;
+  color: #666;
+}
